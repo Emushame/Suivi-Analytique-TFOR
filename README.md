@@ -14,5 +14,5 @@ Surveillance automatisée des indicateurs TFOR (*Taux de Fonctionnement Optimal 
 
 ## Installation  
 ```bash
-git clone https://github.com/votrecompte/TFOR-Analytics.git
+git clone https://github.com/EMushame/Suivi-Analytique-TFOR.git
 pip install -r requirements.txt
